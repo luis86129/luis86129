@@ -31,6 +31,3 @@
 
 🌍 Interesado en la industria aeroespacial, la mecánica orbital y el futuro de la exploración espacial
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luis86129&show_icons=true)
