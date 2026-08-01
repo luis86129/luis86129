@@ -5,10 +5,8 @@
 ## 🚀 Sobre mí
 
 - 🎓 Estudiante de Computer Science
-- 🐍 Aprendiendo Python
-- ☕ Aprendiendo Java
 - 🗄️ Interesado en bases de datos
-- 🧠 Estudiando algoritmos y estructuras de datos
+- 🧠 Estudiando algoritmos y diseño de software
 
 ## 🛠️ Tecnologías
 
