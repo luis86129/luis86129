@@ -25,7 +25,7 @@
 - VS Code
 - MySQL
 
-##🌌 Más allá del código
+## 🌌 Más allá del código
 
 🚀 Apasionado por la exploración espacial
 🛰️ Siguiendo el desarrollo de Starship y los vehículos de lanzamiento reutilizables
@@ -33,4 +33,4 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luis86129&show_icons=true)
