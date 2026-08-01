@@ -25,11 +25,11 @@
 - VS Code
 - MySQL
 
-## 📌 Proyectos
+##🌌 Más allá del código
 
-- 🔹 Proyecto 1
-- 🔹 Proyecto 2
-- 🔹 Proyecto 3
+🚀 Apasionado por la exploración espacial
+🛰️ Siguiendo el desarrollo de Starship y los vehículos de lanzamiento reutilizables
+🌍 Interesado en la industria aeroespacial, la mecánica orbital y el futuro de la exploración espacial
 
 ## 📊 GitHub Stats
 
