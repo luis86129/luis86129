@@ -1,16 +1,36 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Luis
 
-<!--
-**luis86129/luis86129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería en Ciencias de la Computación
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante de Computer Science
+- 🐍 Aprendiendo Python
+- ☕ Aprendiendo Java
+- 🗄️ Interesado en bases de datos
+- 🧠 Estudiando algoritmos y estructuras de datos
+
+## 🛠️ Tecnologías
+
+### Lenguajes
+- Java
+- Python
+- SQL
+- C
+
+### Herramientas
+- Git
+- GitHub
+- IntelliJ IDEA
+- VS Code
+- MySQL
+
+## 📌 Proyectos
+
+- 🔹 Proyecto 1
+- 🔹 Proyecto 2
+- 🔹 Proyecto 3
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
