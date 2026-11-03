@@ -20,3 +20,17 @@ A partir de la lista curada en *Abhisheknaiidu/awesome-github-profile-readme*, s
 | **Proyectos** | Lista organizada de repositorios fijados (*pinned repos*) con descripciones textuales. | Tarjetas embebidas de repositorios con contadores automáticos de *stars* y *forks*. | Fichas detalladas con capturas, GIFs demostrativos y enlaces a demos o despliegues. |
 | **Contacto** | Correo o sitio web mediante hipervínculos sutiles al final del documento. | Badges interactivos tipo botón con hipervínculos a redes profesionales (LinkedIn, Twitter). | Botones estilizados con colores corporativos e iconos de contacto directos. |
 | **Accesibilidad y Lectura en Móvil** | **Alta.** 100% de compatibilidad en móviles y lectores de pantalla al no depender de servidores externos. | **Media.** Las tarjetas externas SVG (*github-readme-stats*) pueden fallar si hay latencia de red. | **Media-Baja.** El peso de animaciones SVG y GIFs puede demorar la carga en conexiones móviles. |
+
+### 1.2 Requisitos Funcionales y No Funcionales
+
+- **Requisitos Funcionales:**
+  - Exponer la información académica relevante del estudiante (Carrera: Ingeniería en Computación en ESPOL) resguardando datos personales sensibles (teléfono, cédula o dirección exacta).
+  - Incluir una sección dedicada a **Proyectos** con al menos 2 trabajos prácticos, detallando descripción, tecnologías y enlace a repositorio.
+  - Incluir una sección de **Tecnologías y Herramientas** aprendidas en el curso y su aplicación práctica.
+  - Proveer canales formales de contacto profesional.
+
+- **Requisitos No Funcionales:**
+  - **Accesibilidad y Portabilidad:** Uso de Markdown estándar y maquetación responsiva compatible con GitHub Pages y navegadores móviles.
+  - **Mantenibilidad:** Historial de cambios registrado mediante la convención de *Conventional Commits*.
+
+---
