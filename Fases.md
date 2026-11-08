@@ -44,3 +44,14 @@ La arquitectura de la información se organizó de la siguiente manera:
 3. **Tecnologías y Herramientas Aprendidas:** Tabla técnica categorizada con aplicaciones en proyectos del curso.
 4. **Proyectos Destacados (Fichas Técnicas):** Tres repositorios con problemas resueltos, stack técnico y enlaces.
 5. **Canales de Contacto:** Enlaces directos a perfiles profesionales.
+
+### 2.2 Estrategia de Versionado (*Conventional Commits*)
+Para garantizar que la evolución del perfil quede respaldada en el historial de Git, se definieron los siguientes mensajes estandarizados:
+
+```bash
+docs: inicializa estructura base de README.md y Fases.md
+feat: agrega seccion de presentacion academica y sobre mi
+feat: incorpora tabla de tecnologias aprendidas y su aplicacion en DAWM
+feat: incluye fichas tecnicas de los 3 proyectos destacados con repositorios
+fix: corrige hipervinculos de repositorios y valida marcado Markdown
+docs: actualiza URLs de despliegue en GitHub Pages
