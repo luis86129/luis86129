@@ -34,3 +34,13 @@ A partir de la lista curada en *Abhisheknaiidu/awesome-github-profile-readme*, s
   - **Mantenibilidad:** Historial de cambios registrado mediante la convención de *Conventional Commits*.
 
 ---
+
+## 📍 Fase 2: Diseño y Planificación
+
+### 2.1 Esquema Visual del `README.md`
+La arquitectura de la información se organizó de la siguiente manera:
+1. **Encabezado y Presentación Profesional:** Saludo, nombre, rol y universidad.
+2. **Sobre Mí:** Enfoque técnico y áreas de interés.
+3. **Tecnologías y Herramientas Aprendidas:** Tabla técnica categorizada con aplicaciones en proyectos del curso.
+4. **Proyectos Destacados (Fichas Técnicas):** Tres repositorios con problemas resueltos, stack técnico y enlaces.
+5. **Canales de Contacto:** Enlaces directos a perfiles profesionales.
