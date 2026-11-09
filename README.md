@@ -30,7 +30,6 @@ Estudiante de **Ingeniería en Computación** en la *Escuela Superior Politécni
 - **Tecnologías:** HTML5, CSS3 (Flexbox/Grid), JavaScript, Git/GitHub.
 - **Características:** Diseño responsivo, estructura de medios optimizada y documentación de investigación cultural.
 
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas
@@ -41,3 +40,17 @@ Estudiante de **Ingeniería en Computación** en la *Escuela Superior Politécni
 | **Frontend & UI** | React, Material UI (MUI), Flexbox, CSS Grid |
 | **Backend & Bases de Datos** | MySQL (Aiven Cloud), SQLite, Patrones MVC y DAO |
 | **Entornos & Herramientas** | Git, GitHub, Linux (Ubuntu), IntelliJ IDEA, NetBeans, VS Code |
+
+---
+
+## 🌌 Más allá del código
+
+- 🚀 **Exploración Aeroespacial:** Apasionado por el monitoreo de la industria aeroespacial, el desarrollo de Starship y los sistemas de lanzamiento reutilizables.
+- 🛰️ **Mecánica Orbital & Datos:** Interesado en la recolección y análisis de datos de seguimiento de vuelos y misiones espaciales en tiempo real.
+
+---
+
+## ✉️ Contacto y Redes
+
+- **GitHub:** [@luis86129](https://github.com/luis86129)
+- **Ubicación:** Guayaquil, Ecuador
